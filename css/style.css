@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+   
+}
+.text-center {
+    text-align:center;
+}
+.pad-top {
+    padding-top:40px;
+}
+
+
+
+.plan {
+padding: 0 0 15px 0;
+margin: 30px 0px;
+list-style: none;
+text-align: center;
+}
+
+.plan li {
+padding: 15px 0px;
+font-size: 16px;
+border-bottom: 1px dotted #e1e1e1;
+}
+
+.price {
+    font-size:45px!important;
+}
+.panel .panel-info:hover{
+			box-shadow: 0px 0px 30px rgba(0,0,0, .2);
+		}
